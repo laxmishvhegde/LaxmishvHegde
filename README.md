@@ -1,5 +1,3 @@
-### Hi there 👋
-Go through Here
 <h1 align="center">Hi 👋, I'm Laxmish Vishnu Hegde</h1>
 <h3 align="center">I am a highly motivated, adaptable individual with a strong passion for the IT industry and in cyber security</h3>
 
