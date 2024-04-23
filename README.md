@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laxmish Vishnu Hegde</h1>
 <h3 align="center">I am a highly motivated, adaptable individual with a strong passion for the IT industry and in cyber security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmishvhegde&label=Profile%20views&color=0e75b6&style=flat" alt="laxmishvhegde" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmishvhegde" alt="laxmishvhegde" /></a> </p>
-
 - 🔭 I’m currently working on **Detection and prediction of diseases in hydroponic farming for sustainable agriculture**
 
 - 🌱 I’m currently learning **Cyber Security, Pentesting,**
